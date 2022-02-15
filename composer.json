@@ -1,6 +1,6 @@
 {
-  "name": "tarohida/php-twitter-tweet",
-  "description": "php twitter domain object",
+  "name": "tarohida/php-twitter-tweet-count",
+  "description": "php twitter domain object (tweet count)",
   "type": "library",
   "license": "MIT",
   "authors": [
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TaroHida\\Twitter\\Tweet\\": "src/TaroHida/Twitter/Tweet"
+      "TaroHida\\Twitter\\TweetCount\\": "src/TaroHida/Twitter/TweetCount"
     }
   },
   "autoload-dev": {
